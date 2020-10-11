@@ -24,7 +24,7 @@ This program can scan any website port and detect any active or open port.This s
 
 <ul>
 <li>sudo pip3 install requirements.txt</li>
-<ul> 
+</ul> 
 
 ### <== Getting started ==> ###
 
@@ -32,9 +32,9 @@ This program can scan any website port and detect any active or open port.This s
 <li>git clone https://github.com/r3k4t/portscanner2.0.git</li>
 <li>cd portscanner2.0</li>
 <li>sudo python3 portscanner.py</li>
-
+</ul>
 
 
 ### <== Screentshot ==> ###
 
-
+![Screenshot at 2020-10-11 10-07-47](https://user-images.githubusercontent.com/69615463/95671473-4801dd80-0bb5-11eb-802c-16225b2db99f.png)
